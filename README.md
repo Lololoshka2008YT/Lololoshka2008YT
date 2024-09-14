@@ -4,6 +4,7 @@
 ⠀
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNndka2R0dHV2dDFpOHJ2YXRvNDdvM3dibzVodmlqb3N6eHg5bnNhZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YpKr72SeALev7CJxn2/giphy.gif">
 <img align="left" alt="Coding" width="400" src="https://github.com/isqnix/iluha_skachai_yety_presentation/blob/main/photo_2024-09-14_02-43-35.jpg?raw=true">
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/OwIjgDW2f_8AAAAM/%D1%80%D0%B0%D0%B7%D1%80%D1%8B%D0%B2%D0%BD%D1%8F-%D0%BA%D1%80%D0%B8%D0%BF%D0%B5%D1%80.gif">
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lololoshka2008&theme=shadow_green&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lololoshka2008&layout=compact&theme=shadow_green&bg_color=00000000)
 
